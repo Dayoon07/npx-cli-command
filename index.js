@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 console.log(`
 👋 안녕하세요! 저는 dayoon07입니다.
 
