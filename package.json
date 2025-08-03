@@ -1,6 +1,6 @@
 {
   "name": "dayoon07",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "dayoon07 소개 CLI",
   "main": "index.js",
   "bin": {
